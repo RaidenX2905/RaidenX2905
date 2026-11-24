@@ -1,6 +1,8 @@
 # Jeevan S Hegde
 
-> "Sometimes you gotta run before you can walk." ⚡
+### *"Sometimes you gotta run before you can walk."* ⚡
+
+---
 
 Builder, tinkerer, and chronic overachiever. 🚀
 
@@ -11,5 +13,7 @@ Driven by first-principles logic, a healthy disregard for conventional wisdom, a
 - 🎯 **High Agency** — If the default way is slow, inefficient, or uninspired, engineer a better one.
 - ⚡ **Velocity as a Baseline** — Theory is nice, but momentum is better. Build it, break it, fix it, ship it.
 - 💎 **Uncompromising Craft** — If it doesn't run with surgical precision and look effortless, it isn't done.
+
+---
 
 Always in the workshop. Always on the next version. 🦾
